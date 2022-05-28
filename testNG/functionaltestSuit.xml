@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FunctionalSuite">
+  <test thread-count="5" name="functionalTest">
+    <classes>
+      <class name="anotationExample.TC4"/>
+      <class name="anotationExample.TC3"/>
+      <class name="anotationExample.TC2"/>
+      <class name="anotationExample.TC1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
