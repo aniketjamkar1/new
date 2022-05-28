@@ -1,0 +1,47 @@
+<html>
+<body>
+
+<body style="background-color:lightgray;">
+<h1 style="color:red;">Welcome to Aniket's Automation </h1>
+
+<label>Username</label>
+<input type="text" id="username"name="username"><br>
+<br>
+<label>Password</label>
+<input type="text" id="password"name="password"><br>
+<br>
+<label>Email</label>
+<input type="text" id="email"name="email"><br>
+<br>
+<label>Select Gender</label>
+<input type="radio" id="male" name="male" value="male">
+<label>Male</label>
+<input type="radio" id="female" name="female" value="male">
+<label>Female</label><br>
+<br>
+<label>Date Of Birth</label>
+<input type="date" id="datemin" name="datemin" min="1980-01-01"><br>
+<br>
+<label>Select Country</label>
+<select>name="country" id="country">
+<option value="india">India</option>
+<option value="shrilanka>Shrilanka</option>
+<option value="china">China</option>
+<option value="america">America</option>
+<option value="japan">Japan</option>
+<option value="russia">Russia</option>
+<option value="pakistan">pakistan</option>
+<option value="brazil">Brazil</option>
+</select><br>
+<br>
+<input type= "checkbox" id="termandcondition" name="termandcondition" value="termandcondition">
+<label>I accepts all terms and conditions</label><br>
+<br>
+<input type="submit" value="submit"><br>
+<br>
+<a href ="https://www.aniketautomationforgotpassword.com/">Forgot Password</a><br>
+
+
+
+</body>
+</html>
