@@ -1,0 +1,3 @@
+com\zerodha\qa\TestCases\HomeTest.class
+com\zerodha\qa\TestCases\OrderTest.class
+com\zerodha\qa\TestCases\LoginTest.class
